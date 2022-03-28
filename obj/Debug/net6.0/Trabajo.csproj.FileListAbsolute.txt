@@ -1,0 +1,15 @@
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\bin\Debug\net6.0\Trabajo.exe
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\bin\Debug\net6.0\Trabajo.deps.json
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\bin\Debug\net6.0\Trabajo.runtimeconfig.json
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\bin\Debug\net6.0\Trabajo.dll
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\bin\Debug\net6.0\Trabajo.pdb
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\obj\Debug\net6.0\Trabajo.csproj.AssemblyReference.cache
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\obj\Debug\net6.0\Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\obj\Debug\net6.0\Trabajo.AssemblyInfoInputs.cache
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\obj\Debug\net6.0\Trabajo.AssemblyInfo.cs
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\obj\Debug\net6.0\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\obj\Debug\net6.0\Trabajo.dll
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\obj\Debug\net6.0\refint\Trabajo.dll
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\obj\Debug\net6.0\Trabajo.pdb
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\obj\Debug\net6.0\Trabajo.genruntimeconfig.cache
+C:\Users\Alone0RC-PC\Documents\Documentos Importantes\Documentos\UNAD\Periodo 16-01\Fundamentos De Programacion\Trabajo II\Trabajo\obj\Debug\net6.0\ref\Trabajo.dll
